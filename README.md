@@ -1,4 +1,4 @@
-# UnitBridge (Flutter)
+# Unit Convertion (Flutter)
 
 A simple Flutter app that converts a value between metric and imperial
 units across three quantity kinds: Length, Weight, and Temperature
